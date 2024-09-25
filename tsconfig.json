@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "ES2015", // Поддержка Promise и async/await
+    "lib": ["ES2015", "DOM"] // Включение библиотек ES2015 и DOM для fetch
+  }
+}
